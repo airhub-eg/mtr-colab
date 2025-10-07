@@ -13,11 +13,7 @@ This repository is designed to be the go-to place for our team to share code, le
 
 ## 🚀 Getting Started
 
-[Instructions on how to clone, set up, and contribute to the repo.]
-
 ## 🤝 How to Contribute
-
-We encourage all team members to contribute! Please check our [contribution guidelines](CONTRIBUTING.md) for more details.
 
 ## 📝 License
 
